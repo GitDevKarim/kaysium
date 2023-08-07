@@ -5,7 +5,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,bash,lua,java,c,cpp,php,vue,flask,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,bash,lua,java,c,cpp,php,vue,flask,tailwind,html,css,mysql,mongodb)](https://skillicons.dev)
 <br>
 
 
