@@ -1,7 +1,6 @@
 # Ello, 
 
 Programming Languages:
-<hr>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,4 +8,13 @@ Programming Languages:
   </a>
 </p>
 
->🎓 Alumuns of the Lebanese American University  
+<hr>
+Frameworks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,flask,tailwind" />
+  </a>
+</p>
+
+<hr>
+-🎓 Alumuns of the Lebanese American University  
