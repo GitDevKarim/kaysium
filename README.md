@@ -1,5 +1,7 @@
+- Recent Graduate
+
 <h2>Tech Stack</h2>
-<hr>
+
 
 
 
