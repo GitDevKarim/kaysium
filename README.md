@@ -33,7 +33,9 @@
 </div>
 
 
+
+<br>
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,regex)](https://github.com/Kaysium)
+[![My Skills](https://skillicons.dev/icons?i=linux,regex,maven)](https://github.com/Kaysium)
