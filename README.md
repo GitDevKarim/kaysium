@@ -1,7 +1,7 @@
 <p align="center">
   <h2>Programming Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,lua&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,bash,java,cpp,c,lua&perline=4" />
   </a>
 </p>
 
