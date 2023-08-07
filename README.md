@@ -1,4 +1,10 @@
-##Recent Graduate
+#Recent Graduate
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git" />
+  </a>
+</p>
 
 <h2>Tech Stack</h2>
 
