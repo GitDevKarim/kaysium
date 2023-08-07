@@ -1,4 +1,4 @@
-#Recent Graduate
+<h2 align="center">Recent Graduate</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
