@@ -1,6 +1,6 @@
 # 🖥 Bachelor in Computer Science 
 <br>
-### Skills:
+###Skills:
 <hr>
 <br>c
 <p align="center">
