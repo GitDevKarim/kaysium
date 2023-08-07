@@ -1,4 +1,5 @@
-<h2 align="center">Recent Graduate</h2>
+<p align="center">"The future belongs to those who believe in the beauty of their dreams."  
+— Eleanor Roosevelt</p>
 
 <p align="center">
   <a href="https://github.com/Kaysium">
