@@ -1,3 +1,5 @@
+Recent Graduate
+
 <h2>Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -5,3 +7,4 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
