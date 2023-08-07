@@ -1,5 +1,6 @@
-### 🖥 Com
-
+### 🖥 Computer Scientist 
+- 🎓 Graduate from the Lebanese American University
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **Kaysium/kaysium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
