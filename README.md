@@ -1,4 +1,4 @@
-<p align="center">Graduated with ambition. Curiosity leads me anywhere from a Fullstack Web Dev to a Network Engineer </p>
+<p align="center">Graduated with ambition.</p>
 <p align="center">"The future belongs to those who believe in the beauty of their dreams." ~Eleanor Roosevelt</p>
 
 <p align="center">
