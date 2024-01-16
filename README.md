@@ -2,7 +2,7 @@
 <p align="center">"The future belongs to those who believe in the beauty of their dreams." ~Eleanor Roosevelt</p>
 
 <p align="center">
-  <a href="https://github.com/Kaysium">
+  <a href="https://github.com/GitDevKarim">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kaysium">
+  <a href="https://github.com/GitDevKarim">
     <img src="https://skillicons.dev/icons?i=ts,js,py,bash,lua,java,c,cpp,php,nodejs,vue,flask,tailwind,html,css,mysql,mongodb,jquery&perline=9" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysium&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdevkarim&layout=compact)
 
 
 
@@ -38,4 +38,4 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,regex,maven)](https://github.com/Kaysium)
+[![My Skills](https://skillicons.dev/icons?i=linux,regex,maven)](https://github.com/GitDevKarim)
